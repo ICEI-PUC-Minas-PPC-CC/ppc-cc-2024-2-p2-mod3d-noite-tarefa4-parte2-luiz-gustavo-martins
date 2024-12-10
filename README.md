@@ -1,19 +1,16 @@
-# TÍTULO DO PROJETO
+# ANIMAÇÃO DA BOLA DE BASQUETE
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: MODELAGEM`
+`2024 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Luiz Gustavo Martins
 
 ## Professor
 
-- Mestre Yoda
+- Will Ricardo Machado
 
 # Documentação
 
