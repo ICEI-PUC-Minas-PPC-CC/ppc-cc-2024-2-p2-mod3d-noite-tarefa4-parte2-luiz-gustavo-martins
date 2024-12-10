@@ -1,11 +1,5 @@
-# Instruções de utilização
+# Animação do boneco com Blender + Rokoko
 
-## Instalação do Site
+Animação desenvolvida utilizando o plugin Rokoko do Blender.
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+### [0.1.0] - 10/12/2024
